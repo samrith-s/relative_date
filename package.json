@@ -1,0 +1,45 @@
+{
+  "name": "relative_date",
+  "version": "1.0.0",
+  "description": "A tiny package which, when given a date, displays it with relation to the current day.",
+  "main": "relative_date.js",
+  "scripts": {
+    "test": "mocha -R nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samrith-s/relative_date.git"
+  },
+  "keywords": [
+    "relative",
+    "date",
+    "relative",
+    "date",
+    "yesterday",
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday",
+    "saturday",
+    "sunday",
+    "datetime",
+    "date",
+    "and",
+    "time",
+    "time"
+  ],
+  "author": "Samrith Shankar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samrith-s/relative_date/issues"
+  },
+  "homepage": "https://github.com/samrith-s/relative_date#readme",
+  "dependencies": {
+    "moment": "^2.18.1"
+  },
+  "devDependencies": {
+    "chai": "^4.0.0",
+    "mocha": "^3.4.2"
+  }
+}
