@@ -42,6 +42,7 @@ All issues and feature requests can be raised in the [issues section](https://gi
 There is an `.editorconfig` to maintain indentation styling across editors. Feel free to add, modify or update the project and raise a pull request. Do not forget to write tests for any additional cases you might add.
 
 ## Release History
+1.0.3 - Changed license of NPM package to MIT
 1.0.2 - Completed readme
-<br />1.0.1 - Added `.editorconfig`
-<br />1.0.0 - Initial release
+1.0.1 - Added `.editorconfig`
+1.0.0 - Initial release
