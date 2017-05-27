@@ -43,6 +43,6 @@ There is an `.editorconfig` to maintain indentation styling across editors. Feel
 
 ## Release History
 1.0.3 - Changed license of NPM package to MIT
-1.0.2 - Completed readme
-1.0.1 - Added `.editorconfig`
-1.0.0 - Initial release
+<br />1.0.2 - Completed readme
+<br />1.0.1 - Added `.editorconfig`
+<br />1.0.0 - Initial release
