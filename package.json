@@ -1,6 +1,6 @@
 {
   "name": "relative_date",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A tiny package which, when given a date, displays it with relation to the current day.",
   "main": "relative_date.js",
   "scripts": {
@@ -31,7 +31,7 @@
     "time"
   ],
   "author": "Samrith Shankar",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/samrith-s/relative_date/issues"
   },
