@@ -52,6 +52,7 @@ There is an `.editorconfig` to maintain indentation across editors. Feel free to
     - Option to show texts like, 'just now', 'about a minute', etc.
 
 ## Release History
+- 1.0.4 - Added feature roadmap
 - 1.0.3 - Changed license of NPM package to MIT
 - 1.0.2 - Completed readme
 - 1.0.1 - Added `.editorconfig`
