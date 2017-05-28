@@ -1,6 +1,6 @@
 {
   "name": "relative_date",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A tiny package which, when given a date, displays it with relation to the current day.",
   "main": "relative_date.js",
   "scripts": {

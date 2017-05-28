@@ -34,6 +34,18 @@ console.log(relativeDate(moment([2017,40,20])).text);
 //Output: Invalid Date
 ```
 
+The value returned by `relativeDate` is an object of this order:
+```javascript
+
+relativeDate(new Date())
+
+// Returned value
+{
+    value: date.toISOString(),
+    text: String,
+    valid: Boolean
+}
+```
 ## Tests
 You can run tests to check for all the available outcomes, by running `npm run cover`
 
