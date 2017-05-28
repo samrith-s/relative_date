@@ -46,6 +46,9 @@ relativeDate(new Date())
     valid: Boolean
 }
 ```
+
+If the date is invalid, the text returned would be "Invalid Date" and the value would be an Invalid Date object.
+
 ## Tests
 You can run tests to check for all the available outcomes, by running `npm run cover`
 
@@ -64,6 +67,8 @@ There is an `.editorconfig` to maintain indentation across editors. Feel free to
     - Option to show texts like, 'just now', 'about a minute', etc.
 
 ## Release History
+- 1.0.6 - Completed comprehensive readme
+- 1.0.5 - Added returned object structure in readme
 - 1.0.4 - Added feature roadmap
 - 1.0.3 - Changed license of NPM package to MIT
 - 1.0.2 - Completed readme
