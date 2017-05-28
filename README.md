@@ -21,7 +21,7 @@ console.log(relativeDate(new Date()).text);
 console.log(relativeDate(moment().subtract(1,'day')).text);
 //Output: Yesterday
 
-console.log(relativeDate(moment().subtract(Math.floor(Math.random() * 7) + 1, 'd')).text);
+console.log(relativeDate(moment().subtract(Math.floor(Math.random() * 6) + 2, 'd')).text);
 //Output: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday or Sunday
 
 console.log(relativeDate(moment(new Date()).subtract(8, 'd')).text);
@@ -67,10 +67,11 @@ There is an `.editorconfig` to maintain indentation across editors. Feel free to
     - Option to show texts like, 'just now', 'about a minute', etc.
 
 ## Release History
-- 1.0.6 - Completed comprehensive readme
-- 1.0.5 - Added returned object structure in readme
-- 1.0.4 - Added feature roadmap
-- 1.0.3 - Changed license of NPM package to MIT
-- 1.0.2 - Completed readme
-- 1.0.1 - Added `.editorconfig`
-- 1.0.0 - Initial release
+- 1.0.7 - Rectified test case 3 failing when randomiser subtracts day by 1. Changed the randomisation formula to generate number between 6 and 2
+- 1.0.6 - Completed comprehensive readme.
+- 1.0.5 - Added returned object structure in readme.
+- 1.0.4 - Added feature roadmap.
+- 1.0.3 - Changed license of NPM package to MIT.
+- 1.0.2 - Completed readme.
+- 1.0.1 - Added `.editorconfig`.
+- 1.0.0 - Initial release.

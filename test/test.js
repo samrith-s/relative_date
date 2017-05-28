@@ -26,7 +26,7 @@ describe('#RelativeDate', function() {
     });
 
     it(tests[3], function() {
-        var result = RelativeDate(moment().subtract(Math.floor(Math.random() * 7) + 1, 'd')).text;
+        var result = RelativeDate(moment().subtract(Math.floor(Math.random() * 6) + 2, 'd')).text;
         result.should.match(/Monday||Tuesday||Wednesday||Thursday||Friday||Saturday||Sunday/g);
     });
 
