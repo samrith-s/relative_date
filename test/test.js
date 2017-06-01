@@ -9,7 +9,7 @@ const tests = {
     1: 'Date is today',
     2: 'Date is yesterday',
     3: 'Date is a day',
-    4: 'Date is a parsed date of format M/D/YYYY',
+    4: 'Date is a parsed date of format D MMM, YYYY',
     5: 'Date is from the future',
     6: 'Date is invalid'
 }
