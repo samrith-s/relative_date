@@ -3,7 +3,7 @@ var moment = require('moment');
 
 module.exports = function(date) {
     date = moment(date);
-    let parsedDate = {
+    var parsedDate = {
         value:date.toISOString(),
         text:null,
         valid: true
@@ -15,8 +15,7 @@ module.exports = function(date) {
         return parsedDate;
     }
 
-    let diff = moment(Date.now()).diff(date, 'days');
-
+    var diff = moment(Date.now()).diff(date, 'days');
 
     if (diff < 0)
         parsedDate.text = moment(date).fromNow(true) + " from now";
