@@ -67,6 +67,7 @@ There is an `.editorconfig` to maintain indentation across editors. Feel free to
     - Option to show texts like, 'just now', 'about a minute', etc.
 
 ## Release History
+- 1.0.9 - Changed default 'is date' format from `M/DD/YYYY` to `D MMM, YYYY`
 - 1.0.8 - Fixed issue with Uglifier throwing error `unexpected token name`
 - 1.0.7 - Rectified test case 3 failing when randomiser subtracts day by 1. Changed the randomisation formula to generate number between 6 and 2
 - 1.0.6 - Completed comprehensive readme.

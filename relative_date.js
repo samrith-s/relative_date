@@ -26,7 +26,7 @@ module.exports = function(date) {
     else if (diff > 1 && diff < 7)
       parsedDate.text = date.format("dddd");
     else
-      parsedDate.text = date.format("M/D/YYYY");
+      parsedDate.text = date.format("D MMMM, YYYY");
 
     return parsedDate;
 }
