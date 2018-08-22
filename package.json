@@ -30,5 +30,24 @@
   "author": "Samrith Shankar",
   "homepage": "https://github.com/samrith-s/relative_date",
   "license": "MIT",
-  "repository": "https://github.com/samrith-s/relative_date"
+  "repository": "https://github.com/samrith-s/relative_date",
+  "keywords": [
+    "relative",
+    "date",
+    "relative",
+    "date",
+    "yesterday",
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday",
+    "saturday",
+    "sunday",
+    "datetime",
+    "date",
+    "and",
+    "time",
+    "time"
+  ]
 }
