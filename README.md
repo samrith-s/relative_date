@@ -76,6 +76,8 @@ ESLint and Prettier are setup to have consistent formatting. Please raise a PR a
   - Option to show texts like, 'a few seconds ago', '1 minute ago', '7 hours ago' etc.
   - Option to show texts like, 'just now', 'about a minute', etc.
 
+Copyright &copy; 2018.
+
 [build]: https://travis-ci.org/samrith-s/relative_date
 [coverage]: https://coveralls.io/github/samrith-s/relative_date
 [npm]: https://www.npmjs.com/package/relative_date
