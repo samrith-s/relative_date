@@ -1,6 +1,6 @@
 {
   "name": "relative_date",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Describe relative_date here",
   "main": "lib/index.js",
   "files": [
