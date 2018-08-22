@@ -4,9 +4,11 @@
 [![Coverage Status](https://coveralls.io/repos/github/samrith-s/relative_date/badge.svg)][coverage]
 [![npm](https://img.shields.io/npm/v/relative_date.svg)][npm]
 
-### ** ✅ Version 2 is out, and this package is in active development! Features will now be added as per the Roadmap!**
-
 A simple package which returns relative human-readable text for any valid date entered. Accepts both JavaScript `Date` and `moment` objects.
+
+## ✅ Version 2 is out!
+
+Relative Date is back in active development! Features will now be added as per the Roadmap mentioned below.
 
 ## Installation
 
