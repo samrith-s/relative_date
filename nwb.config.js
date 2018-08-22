@@ -6,11 +6,5 @@ module.exports = {
       global: 'RelativeDate',
       externals: {}
     }
-  },
-  uglify: {
-    uglifyOptions: {
-      mangle: true,
-      beautify: false
-    }
   }
 };
