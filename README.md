@@ -1,15 +1,13 @@
 # Relative Date
 
+> 🚨 This package was an experimental package with absolutely no optimizations to the code or to the build process. It has no purpose any longer. Try out [dayjs](https://github.com/iamkun/dayjs) instead.
+
 [![Build Status](https://travis-ci.org/samrith-s/relative_date.svg?branch=master)][build]
 [![Coverage Status](https://coveralls.io/repos/github/samrith-s/relative_date/badge.svg)][coverage]
 [![npm](https://img.shields.io/npm/v/relative_date.svg)][npm]
 [![GitHub license](https://img.shields.io/github/license/samrith-s/sticky-react-table.svg)][license]
 
-A simple package which returns relative human-readable text for any valid date entered. Accepts both JavaScript `Date` and `moment` objects.
-
-## Version 2 Out Now
-
-Relative Date is back in active development! Features will now be added as per the Roadmap mentioned below.
+A simple package which returns relative human-readable text for any valid date entered. Accepts both JavaScript `Date` and `moment` 
 
 ## Installation
 
